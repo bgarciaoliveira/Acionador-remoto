@@ -1,0 +1,2 @@
+﻿Para utilizar a "common" tem que colocar a pasta nas libraries do arduino
+. O compilador do arduino é um energúmeno e não deixa dar include de outras pastas.
